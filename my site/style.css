@@ -7,6 +7,7 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  stroke: none;
 }
 
 img {
@@ -216,6 +217,3 @@ body {
         transition: none !important;
     }
 
-
-
-   
